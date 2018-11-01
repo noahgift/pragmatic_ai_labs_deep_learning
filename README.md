@@ -1,2 +1,2 @@
-# pragmatic_ai_labs_deep_learning
+# Pragmatic AI Labs Deep Learning
 Pragmatic AI Labs influenced Deep Learning 
